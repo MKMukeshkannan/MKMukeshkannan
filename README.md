@@ -2,9 +2,9 @@
 <h3 align="center">An Aspiring Full-Stack Developer</h3>
 <h3 align="left">CONTACT ME ON </h3>
 <p align="left">
-<a href="https://twitter.com/mkmukeshkannan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/mkmukeshkannan" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/mukesh-kannan-mk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mukesh-kannan-mk" height="30" width="40" /></a>
-<a href="https://instagram.com/mukesh_kannanmk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/mukesh_kannanmk/" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/mukesh-kannan-mk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/mukesh-kannan-mk" height="30" width="40" /></a>
+<a href="https://instagram.com/mukesh_kannanmk/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="instagram.com/mukesh_kannanmk/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">SKILLS I POSSESS</h3>
