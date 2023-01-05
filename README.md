@@ -1,4 +1,4 @@
-<h1 align="center"><EM>YO!✋</EM> MUKESH HERE</h1>
+<h1 align="center"><EM>YO!✋</EM>IT'S MUKESH HERE</h1>
 <h3 align="center">An Aspiring Full-Stack Developer and ML Engineer</h3>
 <h3 align="left">CONTACT ME ON </h3>
 <p align="left">
