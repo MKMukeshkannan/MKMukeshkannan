@@ -31,4 +31,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/development-2-yellow/60/30_-Javascript-_development_coding_programming_code-1024.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/pypi-logo-5B953CE804-seeklogo.com.png" alt="beautifulSoup4" width="40" height="40"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/bash-icon.svg" alt="BASH" width="40" height="40"/> </a> 
 </p>
