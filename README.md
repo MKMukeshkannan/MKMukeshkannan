@@ -2,8 +2,7 @@
 <h3 align="center">An Aspiring Full-Stack Developer and ML Engineer</h3>
 <h3 align="left">CONTACT ME ON </h3>
 <p align="left">
-
-      <a href="www.linkedin.com/in/mukesh-kannan-mk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/mukesh-kannan-mk" height="30" width="40" /></a>
+      <a href="https://www.linkedin.com/in/mukesh-kannan-mk/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">SKILLS I POSSESS</h3>
