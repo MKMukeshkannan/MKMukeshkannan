@@ -3,8 +3,7 @@
 <h3 align="left">CONTACT ME ON </h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/mukesh-kannan-mk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/mukesh-kannan-mk" height="30" width="40" /></a>
-<a href="https://instagram.com/mukesh_kannanmk/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="instagram.com/mukesh_kannanmk/" height="30" width="40" /></a>
+      <a href="www.linkedin.com/in/mukesh-kannan-mk" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="www.linkedin.com/in/mukesh-kannan-mk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">SKILLS I POSSESS</h3>
